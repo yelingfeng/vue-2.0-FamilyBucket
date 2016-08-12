@@ -2,13 +2,13 @@
 
   FamilyBucket with vue2.0 + vuex + vue-router + vue-resource + echarts3
 
-<p align="center">
-   ![](/screen.gif)
-</p>
 
-## vue2.0 ÕûºÏÄ£°å
+  ![](/screen.gif)
 
-- Ì×²Í×éºÏ
+
+## vue2.0 å…¨å®¶æ¡¶
+
+- å¥—é¤
   - vue2
   - vuex2
   - vue-router2
