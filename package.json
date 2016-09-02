@@ -1,0 +1,58 @@
+{
+  "name": "vue-2.0-FamilyBucket",
+  "version": "0.0.1",
+  "description": "vue2,vuex2,vue-router2,vue-resource,lodash3,echarts3,jquery2,bootstrap3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --port=8100",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelingfeng/vue-2.0-FamilyBucket.git"
+  },
+  "keywords": [
+    "vue2",
+    "vuex2",
+    "vue-router2",
+    "vue-resource",
+    "lodash",
+    "echarts3",
+    "jquery",
+    "bootstrap"
+  ],
+  "author": "yelingfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelingfeng/vue-2.0-FamilyBucket/issues"
+  },
+  "homepage": "https://github.com/yelingfeng/vue-2.0-FamilyBucket#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "echarts": "^3.2.2",
+    "jquery": "^2.2.4",
+    "lodash": "^3.10.1",
+    "vue": "^2.0.0-beta.5",
+    "vue-router": "^2.0.0-rc.2",
+    "vuex": "^2.0.0-rc.4",
+    "vue-resource": "^0.9.3",
+    "vuex-router-sync": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-es2015": "^6.13.2",
+    "cross-env": "^1.0.6",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^2.0.0-beta.3",
+    "file-loader": "^0.8.4",
+    "happypack": "^2.2.1",
+    "html-webpack-plugin": "^2.22.0",
+    "json-loader": "^0.5.4",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "vue-loader": "^9.2.2",
+    "webpack": "^2.1.0-beta.20",
+    "webpack-dev-server": "^2.1.0-beta.0"
+  }
+}
