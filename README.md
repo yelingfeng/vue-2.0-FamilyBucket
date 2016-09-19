@@ -1,7 +1,7 @@
 # vue-2.0-FamilyBucket
 
   FamilyBucket with vue2.0 + vuex + vue-router + vue-resource + echarts3
-
+  
 
   ![](/screen.gif)
 
@@ -21,7 +21,7 @@
 # install dependencies
 npm install
 
-# serve in dev mode, with hot reload at localhost:8080
+# serve in dev mode, with hot reload at localhost:8100
 npm run dev
 
 # build for production
