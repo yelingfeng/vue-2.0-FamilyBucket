@@ -18,7 +18,7 @@ module.exports = {
     filename: '[hash:8].[name].js',
   },
   resolve: {
-    extensions: ['', '.js', '.vue'],
+    extensions: ['.js', '.vue'],
     root: path.join(__dirname, '../src'),
     alias: {
       'src': path.resolve(__dirname, './src'),
