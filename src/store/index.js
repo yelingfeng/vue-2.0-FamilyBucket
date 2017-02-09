@@ -4,7 +4,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import Api from "src/api/index"
-import createLogger from 'vuex/logger'
+import createLogger from 'vuex/dist/logger'
 
 Vue.use(Vuex)
 
